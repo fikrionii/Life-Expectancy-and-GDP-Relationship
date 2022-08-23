@@ -19,8 +19,16 @@ This project will analyze GDP and life expectancy variable of a country and answ
 For this project, GDP data is obtained from [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and life expectancy data is obtained from [WHO](https://apps.who.int/gho/data/node.main.688)
 
 The dataset consist of 4 columns:
-Country : Country of observation
-Year : Year of observation
-Life Expectancy at birth (years)  Life expectancy in age
-GDP | Gross Domestic Product per capita (in USD)
+- `Country` : Country of observation
+- `Year` : Year of observation
+- `Life Expectancy at birth (years)` : Life expectancy in age
+- `GDP` : Gross Domestic Product of the country (in USD)
 
+## Insight from Data:
+Through working on this dataset, we've found some interesting conclusions:
+1. Life expectancy at birth increased over time in all 6 countries, with Zimbabwe having the largest increase.
+2. GDP has increased over time as well, especially for China.
+3. Average life expectancy is between mid to high 70s, except for Zimbabwe which is 50 years.
+4. There is a strong positive relationship between GDP and life expectancy, with all countries has coefficient > 0.9.
+
+Thank you for visiting my repository 😃👏
