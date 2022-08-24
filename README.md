@@ -16,7 +16,7 @@ This project will analyze GDP and life expectancy variable of a country and answ
 
 ## Data Overview
 
-For this project, GDP data is obtained from [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and life expectancy data is obtained from [WHO](https://apps.who.int/gho/data/node.main.688)
+For this project, GDP data is obtained from [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and life expectancy data is obtained from [WHO](https://apps.who.int/gho/data/node.main.688).
 
 The dataset consist of 4 columns:
 - `Country` : Country of observation
